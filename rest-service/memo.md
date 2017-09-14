@@ -6,10 +6,10 @@ https://spring.io/guides/gs/rest-service/
 ## Intellij で環境構築
 
 1. `SPRING INITIALIZR`（ https://start.spring.io/ ）を使ってプロジェクトを作成
-  * Generate a `Gradle Project` with `Kotlin` and Spring Boot `1.5.7` で設定
-  * Groupにはパッケージ名を入力
-  * Artifactにはプロジェクト名を入力
-  * DependenciesはWebだけ選択
+   * Generate a `Gradle Project` with `Kotlin` and Spring Boot `1.5.7` で設定
+   * Groupにはパッケージ名を入力
+   * Artifactにはプロジェクト名を入力
+   * DependenciesはWebだけ選択
 1. Generate Projectボタンを押してダウンロードして解凍する
 1. Intellijで `Import Project`を選択
 1. 解凍したファイル内の`build.gradle`を選んで`open`
